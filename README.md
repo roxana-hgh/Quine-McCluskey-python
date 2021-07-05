@@ -1,7 +1,7 @@
 # Quine-McCluskey-python
 Quine McCluskey algorithm for minimizing logical expressions with 2-6 variables
 
-## program run Example
+###  Example
 --------------------------------------------------------------------
 * Minimizing Logical Expressions with 'Quine McCluskey' Algorithm 
 
